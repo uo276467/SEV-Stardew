@@ -1,0 +1,34 @@
+﻿Actor.obj : error LNK2019: unresolved external symbol SDL_FreeSurface referenced in function "public: static struct SDL_Texture * __cdecl Game::getTexture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?getTexture@Game@@SAPEAUSDL_Texture@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Animation.obj : error LNK2001: unresolved external symbol SDL_FreeSurface
+Text.obj : error LNK2001: unresolved external symbol SDL_FreeSurface
+Actor.obj : error LNK2019: unresolved external symbol SDL_CreateTextureFromSurface referenced in function "public: static struct SDL_Texture * __cdecl Game::getTexture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?getTexture@Game@@SAPEAUSDL_Texture@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Animation.obj : error LNK2001: unresolved external symbol SDL_CreateTextureFromSurface
+Text.obj : error LNK2001: unresolved external symbol SDL_CreateTextureFromSurface
+Actor.obj : error LNK2019: unresolved external symbol SDL_RenderCopyEx referenced in function "public: virtual void __cdecl Actor::draw(int,int)" (?draw@Actor@@UEAAXHH@Z)
+Animation.obj : error LNK2001: unresolved external symbol SDL_RenderCopyEx
+Actor.obj : error LNK2019: unresolved external symbol IMG_Load referenced in function "public: static struct SDL_Texture * __cdecl Game::getTexture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?getTexture@Game@@SAPEAUSDL_Texture@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Animation.obj : error LNK2001: unresolved external symbol IMG_Load
+Game.obj : error LNK2019: unresolved external symbol SDL_GetError referenced in function "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: unresolved external symbol SDL_GetCurrentDisplayMode referenced in function "public: void __cdecl Game::scale(void)" (?scale@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol SDL_SetWindowTitle referenced in function "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: unresolved external symbol SDL_SetWindowSize referenced in function "public: void __cdecl Game::scale(void)" (?scale@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol SDL_SetHint referenced in function "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: unresolved external symbol SDL_CreateWindowAndRenderer referenced in function "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: unresolved external symbol SDL_RenderSetScale referenced in function "public: void __cdecl Game::scale(void)" (?scale@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol SDL_GetTicks referenced in function "public: void __cdecl Game::loop(void)" (?loop@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol SDL_Delay referenced in function "public: void __cdecl Game::loop(void)" (?loop@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol SDL_Init referenced in function "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: unresolved external symbol TTF_Init referenced in function "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: unresolved external symbol TTF_OpenFont referenced in function "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+GameLayer.obj : error LNK2019: unresolved external symbol SDL_PollEvent referenced in function "public: virtual void __cdecl GameLayer::processControls(void)" (?processControls@GameLayer@@UEAAXXZ)
+GameLayer.obj : error LNK2019: unresolved external symbol SDL_RenderPresent referenced in function "public: virtual void __cdecl GameLayer::draw(void)" (?draw@GameLayer@@UEAAXXZ)
+Player.obj : error LNK2019: unresolved external symbol "public: void __cdecl Tool::action(void)" (?action@Tool@@QEAAXXZ) referenced in function "public: void __cdecl Player::useTool(void)" (?useTool@Player@@QEAAXXZ)
+Text.obj : error LNK2019: unresolved external symbol SDL_RenderCopy referenced in function "public: void __cdecl Text::draw(void)" (?draw@Text@@QEAAXXZ)
+Text.obj : error LNK2019: unresolved external symbol SDL_DestroyTexture referenced in function "public: void __cdecl Text::draw(void)" (?draw@Text@@QEAAXXZ)
+Text.obj : error LNK2019: unresolved external symbol TTF_RenderText_Blended referenced in function "public: void __cdecl Text::draw(void)" (?draw@Text@@QEAAXXZ)
+D:\bbb uni\tercero\sev\Stardew\dependencias\lib\SDL2.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\bbb uni\tercero\sev\Stardew\dependencias\lib\SDL2main.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\bbb uni\tercero\sev\Stardew\dependencias\lib\SDL2_image.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\bbb uni\tercero\sev\Stardew\dependencias\lib\SDL2_ttf.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\bbb uni\tercero\sev\Stardew\dependencias\lib\SDL2_mixer.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\bbb uni\tercero\sev\Stardew\x64\Debug\Stardew.exe : fatal error LNK1120: 22 unresolved externals

@@ -1,0 +1,52 @@
+﻿  Game.cpp
+D:\bbb uni\tercero\sev\Stardew\Stardew\Game.cpp(69,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\Game.cpp(69,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GameLayer.cpp
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(22,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(22,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(39,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(41,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(41,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(45,56): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(47,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(47,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(51,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(53,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(53,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(98,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(99,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(238,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(238,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(247,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(247,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(328,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(328,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(333,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(333,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(338,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(338,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(343,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(343,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(348,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(348,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(352,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(352,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(353,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(353,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(356,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(356,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(370,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(370,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(387,31): warning C4018: '<': signed/unsigned mismatch
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(404,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(404,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(409,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(409,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(411,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(411,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(423,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(426,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(433,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\bbb uni\tercero\sev\Stardew\Stardew\GameLayer.cpp(436,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Stardew.vcxproj -> D:\bbb uni\tercero\sev\Stardew\Debug\Stardew.exe
