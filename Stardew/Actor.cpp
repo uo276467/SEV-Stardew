@@ -5,7 +5,7 @@ Actor::Actor(std::string filename,
 	float x,
 	float y,
 	int width, int height)
-	: x(x), y(y), originalX(x), originalY(y), width(width), height(height),
+	: x(x), y(y), width(width), height(height),
 	fileWidth(width), fileHeight(height), vx(0), vy(0),
 	boundingBox(x, y, width, height)
 {
@@ -46,11 +46,4 @@ void Actor::sweep(std::unordered_set<Actor*> actors) {
 	vy = delta.y;
 	x += vx;
 	y += vy;
-}
-
-void Actor::resetPosition() {
-	x = originalX;
-	y = originalY;
-	boundingBox.x = originalX;
-	boundingBox.y = originalY;
 }

@@ -141,6 +141,13 @@ void Player::moveY(float direction) {
 	vy = direction * 3;
 }
 
+void Player::resetPosition(float newX, float newY) {
+	x = newX;
+	y = newY;
+	boundingBox.x = newX;
+	boundingBox.y = newY;
+}
+
 void Player::draw(int scrollX, int scrollY) {
 	animation->draw(x - scrollX, y - scrollY);
 }

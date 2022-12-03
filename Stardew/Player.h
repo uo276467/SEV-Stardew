@@ -18,6 +18,7 @@ public:
 	void draw(int scrollX = 0, int scrollY = 0) override;
 	void moveX(float direction);
 	void moveY(float direction);
+	void resetPosition(float newX, float newY);
 
 	int actionTime = 20;
 	int actionCadence = 20;

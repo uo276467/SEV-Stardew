@@ -315,7 +315,7 @@ void GameLayer::startNextDay() {
 
 		textDay->content = "Día " + std::to_string(currentDay);
 
-		player->resetPosition();
+		player->resetPosition(WIDTH * .15f, HEIGHT * .55f);
 	}
 }
 

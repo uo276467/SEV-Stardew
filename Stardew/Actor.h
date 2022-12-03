@@ -23,10 +23,6 @@ public:
 
 	void sweep(std::unordered_set<Actor*> actors);
 
-	float originalX;
-	float originalY;
-	void resetPosition();
-
 	BoundingBox boundingBox;
 };
 
